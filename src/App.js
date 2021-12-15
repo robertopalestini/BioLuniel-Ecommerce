@@ -9,8 +9,9 @@ import Contact from "./Contact";
 import Aboutus from "./Aboutus";
 import Products from "./Products";
 import Footer from "./Footer";
-
-
+import firebase from 'firebase/app';
+import 'firebase/auth';
+import 'firebase/firestore';
 
 
 
